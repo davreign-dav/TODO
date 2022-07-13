@@ -7,8 +7,6 @@ body {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 300;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
     font-size: 15px;
     background: #eee;
 }
